@@ -1,0 +1,23 @@
+//
+//  alwaysChat.pch
+//  AlwaysChat
+//
+//  Created by lurong on 15/9/28.
+//  Copyright © 2015年 lurong. All rights reserved.
+//
+
+#ifndef alwaysChat_pch
+#define alwaysChat_pch
+
+#import "LCCommon.h"
+#import "UIView+Extension.h"
+#import "UIView+StringTag.h"
+#import "NSString+ReWriteLength.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "LRLoginUser.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* alwaysChat_pch */
